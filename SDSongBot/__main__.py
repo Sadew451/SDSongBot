@@ -13,7 +13,7 @@ Hey [{}](tg://user?id={}), I'm Song Downloader Bot 🎵
 😉 Just send me the song name you want to download.😋
       eg:```/song Faded```
       
-A bot by @Darkridersslk 🇱🇰
+A bot by @SDBotsz 🇱🇰
 """
 
 @app.on_message(filters.command("start"))
@@ -29,7 +29,7 @@ async def start(client, message):
                         text="Channel 🔊", url="https://t.me/SDbotsz"
                     ),
                     InlineKeyboardButton(
-                        text="Dev 🔥", url="https://t.me/SDBOTz"
+                        text="Dev 🔥", url="https://t.me/Darkridersslk"
                     )
                 ]
             ]
