@@ -9,7 +9,7 @@
         "SDBots"
     ],
     "website": "https://t.me/SDBOTs_inifinity",
-    "repository": "https://github.com/Sadew451/SD-SongBot",
+    "repository": "https://github.com/Sadew451/SDSongBot",
     "success_url": "https://t.me/SDBOTs_inifinity",
     "env": {
         "BOT_TOKEN": {
