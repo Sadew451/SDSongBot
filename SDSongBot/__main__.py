@@ -7,9 +7,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from SDSongBot import SDbot as app
 from SDSongBot import LOGGER
 
-sticker = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxygdMwyIE"
-
-pm_start_sticker = """
+pm_start_sticker = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxygdMwyIE" """
 👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot** 🎵
 
 **Now send me the song name you want to download**
