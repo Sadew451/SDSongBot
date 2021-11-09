@@ -7,10 +7,12 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from SDSongBot import SDbot as app
 from SDSongBot import LOGGER
 
-pm_start_text = """
-👋 Hey [{}](tg://user?id={}), I'm Song Downloader Bot 🎵
+STICKER = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxygdMwyIE"
 
-**Just send me the song name you want to download**
+pm_start_text = """
+👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot** 🎵
+
+**Now send me the song name you want to download**
      
      Syntax : ```/song Faded```
       
