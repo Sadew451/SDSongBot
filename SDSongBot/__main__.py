@@ -9,7 +9,7 @@ from SDSongBot import LOGGER
 
 STICKER = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxygdMwyIE"
 
-pm_start_text = """
+pm_start_sticker = """
 👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot** 🎵
 
 **Now send me the song name you want to download**
