@@ -7,9 +7,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from SDSongBot import SDbot as app
 from SDSongBot import LOGGER
 
-sticker_id = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxygdMwyIE"
+STICKER = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxygdMwyIE"
 
-pm_start_sticker_id = """
+pm_start_sticker(STICKER) = """
 👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot** 🎵
 
 **Now send me the song name you want to download**
@@ -39,7 +39,7 @@ async def start(client, message):
         )
     else:
         btn = None
-    await message.reply(pm_start_sticker_id.format(name, user_id), reply_markup=btn)
+    await message.reply(pm_start_sticker.format(name, user_id), reply_markup=btn)
 
 
 app.start()
