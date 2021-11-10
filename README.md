@@ -8,7 +8,7 @@ A telegram bot that can download songs
   <img src="https://telegra.ph/file/b9fbbd4b744428b98d071.jpg">
 </p>
 
-
+- ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/SDSongBot?label=Repo%20Size)
 
 
 ### Deploy to Heroku
