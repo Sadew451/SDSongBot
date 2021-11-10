@@ -39,7 +39,7 @@ Make Sure You Add All These Mandatory Vars.
 
 ### Developers:
 
-[@SadewJ](https://t.me/SadewJ)
+[Sadew Jayasekara](https://t.me/Itz_Sadew)
 
 ### Support 
 
