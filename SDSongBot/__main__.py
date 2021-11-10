@@ -8,11 +8,10 @@ from SDSongBot import SDbot as app
 from SDSongBot import LOGGER
 
 pm_start_text = """
-👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot** 🎵
-
+👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot**
 **Now send me the song name you want to download**
      
-     Syntax : ```/song Faded```
+Syntax : ```/song Faded```
       
 Powerd By @SDBotsz 🔥
 """
