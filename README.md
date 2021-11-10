@@ -30,6 +30,9 @@ The easiest way to deploy this Song Bot  <br><br>
 
 ### Support 
 
-- ```[Update Channel](https://t.me/SDBOTs_Inifinity)```
+```
+
+- [Update Channel](https://t.me/SDBOTs_Inifinity)
 - [Support Group](https://t.me/SDBOTz)
 
+```
