@@ -11,7 +11,7 @@ pm_start_text = """
 👋 Hey [{}](tg://user?id={}), **I'm Song Downloader Bot**
 **Now send me the song name you want to download**
      
-Syntax : ```/song Faded```
+Syntax : ```/dsong Faded```
       
 Powerd By @SDBotsz 🔥
 """
