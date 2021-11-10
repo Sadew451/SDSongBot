@@ -5,7 +5,7 @@ A telegram bot that can download songs
 ### Reach me on Telegram [@MusicDlSDBot](http://t.me/MusicDlSDBot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/b9fbbd4b744428b98d071.jpg">
+  <img src="https://telegra.ph/file/7c4dd52587d25aeb527b3.png">
 </p>
 
 - ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/SDSongBot?label=Repo%20Size)
