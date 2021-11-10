@@ -17,6 +17,13 @@ The easiest way to deploy this Song Bot  <br><br>
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/SDSongBot)
 
+### Mandatory Vars 
+```
+Make Sure You Add All These Mandatory Vars. 
+    [-] APP_ID : You can get this value from @SDMyTgOrgBot
+    [-] APP_HASH : You can get this value from @SDMyTgOrgBot
+    [-] TOKEN : Get from botfarther
+```
 
 ## Credits
 
