@@ -2,7 +2,7 @@
 
 A telegram bot that can download songs
 
-### Reach me on Telegram [@MusicDlSDBot](http://t.me/@MusicDlSDBot)
+### Reach me on Telegram [@MusicDlSDBot](http://t.me/MusicDlSDBot)
 
 <p align="center">
   <img src="https://telegra.ph/file/b9fbbd4b744428b98d071.jpg">
